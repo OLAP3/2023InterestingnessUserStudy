@@ -1,5 +1,5 @@
 # 2023 Interestingness User Study
-A user study, conducted in 2023 to assess interestingness, along different dimensions of interestingness. We depose the study material here.
+A user study, conducted in 2023 to assess interestingness, along different dimensions of interestingness. We depose the material and the findings of the study here.
 
 The user study accompanies the paper:
 
